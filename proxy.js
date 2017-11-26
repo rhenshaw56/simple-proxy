@@ -7,8 +7,6 @@ const notFound = response => {
 
 } 
 
-console.log('http', {http})
-
 const server = http.createServer((b_req, b_resp) => {
     // parse the request url
     const b_url = url.parse(b_req.url, true);
