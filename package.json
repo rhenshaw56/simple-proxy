@@ -1,0 +1,26 @@
+{
+  "name": "simple-proxy",
+  "version": "1.0.0",
+  "description": "simple http proxy server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhenshaw56/simple-proxy.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "henshaw rowland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhenshaw56/simple-proxy/issues"
+  },
+  "homepage": "https://github.com/rhenshaw56/simple-proxy#readme",
+  "dependencies": {
+    "sys": "0.0.1",
+    "url": "^0.11.0"
+  }
+}
